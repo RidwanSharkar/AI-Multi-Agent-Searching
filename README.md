@@ -15,7 +15,7 @@
 • Assuming probabilistic/random behavior
 
 **Evaluation Function Design:** <br>
-State Evaluation - crafting heuristics to assess the desirability of a game state (distance to food, proximity to ghosts, score). <br>
+State Evaluation - crafting heuristics to assess game state (distance to food, proximity to ghosts, score). <br>
 Action Evaluation - assessing the immediate outcome of actions to inform decision-making.
 
 **Search Tree Management:** <br>
